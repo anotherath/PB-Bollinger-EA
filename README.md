@@ -9,7 +9,7 @@
 - **Phát hiện Pin Bar**: Bot tự động nhận diện mô hình nến Pin Bar dựa trên giá mở, đóng, cao và thấp của nến trước đó.  
 - **Bollinger Bands**: Sử dụng dải Bollinger (20 chu kỳ, độ lệch 2) để xác định vùng giá quá mua hoặc quá bán, làm cơ sở kích hoạt lệnh.  
 - **Quản lý lệnh**: Mở hai lệnh với kích thước lô tùy chỉnh (mặc định 0.05 lot), đặt Stop Loss dựa trên mức thấp nhất (cho lệnh mua) hoặc cao nhất (cho lệnh bán) của nến Pin Bar, Take Profit 1 khi giá chạm dải giữa, Take Profit 2 khi giá chạm dải trên đối với lệnh bán và chạm dải dưới đối với lệnh mua.
-- **Điều chỉnh Stop Loss**: Tự động di chuyển Stop Loss về điểm vào lệnh khi giá chạm Take Profit 1, giúp bảo toàn vốn.
+- **Điều chỉnh Stop Loss**: Tự động di chuyển Stop Loss về điểm vào lệnh khi Take Profit 1, giúp bảo toàn vốn.
 
 ## Mục đích sử dụng
 PB-Bollinger-EA là công cụ lý tưởng cho những nhà giao dịch muốn tự động hóa chiến lược giao dịch đảo chiều dựa trên Pin Bar và Bollinger Bands trên khung H4.
