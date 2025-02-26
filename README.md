@@ -12,7 +12,7 @@
 - **Điều chỉnh Stop Loss**: Tự động di chuyển Stop Loss về điểm vào lệnh khi Take Profit 1, giúp bảo toàn vốn.
 
 ## Mục đích sử dụng
-PB-Bollinger-EA là công cụ lý tưởng cho những nhà giao dịch muốn tự động hóa chiến lược giao dịch đảo chiều dựa trên Pin Bar và Bollinger Bands trên khung H4.
+PB-Bollinger-EA là công cụ tự động hóa giao dịch đảo chiều dựa trên Pin Bar và Bollinger Bands trên khung H4.
 
 ## Yêu cầu  
 - **Cặp tiền**: XAU/USD (vàng) hoặc các cặp tiền tệ khác.  
